@@ -75,6 +75,8 @@ $privatekey = "<Secret Key>";';
 ```
 with your actual keys!
 
+You don't need to restart the web server.
+
 # Uninstallation
 
 In case you want to remove the reCaptcha run the script:
