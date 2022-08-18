@@ -66,6 +66,7 @@ rm -rf /var/www/html/reCaptcha2_validation-free.tar.gz
 ```
 
 - After installation is completed you should visit https://www.google.com/recaptcha/admin and register your hostname.
+- ONLY v2 it's supported. v3 isn't going to work.
 - You will get _Site key_ and _Secret key_ which you should add into the config file: config.inc.php.
 - Open ${DIR_INSTALL}/config.inc.php and update:
 ```
