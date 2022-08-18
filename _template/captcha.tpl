@@ -137,9 +137,7 @@
                         <div class="lang-tr" style="dispay: none;">
                             Barındırıcı |COMPANY_HTML|.
                         </div>
-                        <div class="lang-es" style="dispay: none;">
-                            Hosteado por |COMPANY_HTML|.
-                        </div>
+                        
                     </div>
                 </div>
             </div>
